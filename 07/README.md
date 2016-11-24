@@ -32,6 +32,6 @@ Lpsfn jqtvn epmps tju bnfu, dpotfdufuvs bejqjtdjoh fmju. Nvmmbn rvjt pejp opo mf
 Да се напише функция `const int* findK (int K, const int* arr, int arrSize)`, която намира първото срещане на `K` в масива `arr` и връща указател към намерения елемент.
 
 
-# Задача 4.2
+# Задача 4.2 (бонус)
 
 Да се напише програма, която използва функцията `findK` за да намери всички срещания на число `K` в масив.
