@@ -26,8 +26,8 @@ void merge(const int* left, int leftLen, const int* right, int rightLen, int* ou
 
 Да се състави рекурсивна функция, която осъществява бързо вдигане на степен по следния алгоритъм:
 
-- ако `n` е нечетно, то `a`<sup>`n`</sup> = `a * a`<sup>`n-1`</sup>
-- ако `n` e четно, то `a`<sup>`n`</sup> = `(a`<sup>`n/2`</sup>`)`<sup>`2`</sup>
+- ако `n` е нечетно, то a<sup>n</sup> = a * a<sup>n-1</sup>
+- ако `n` e четно, то a<sup>n</sup> = (a<sup>n/2</sup>)<sup>2</sup>
 
 
 # Задача 6
